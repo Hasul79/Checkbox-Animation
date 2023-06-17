@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/Checkbox-Animation/
 
- # autor: Hasmik Minasyan
+ # author: Hasmik Minasyan
